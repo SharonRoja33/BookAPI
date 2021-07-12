@@ -80,5 +80,5 @@
 // update/add a new book to a publication
 
 // DELETE
-// delete a book from publication
-// delete publication
+// Delete a book from publication
+// Delete publication
