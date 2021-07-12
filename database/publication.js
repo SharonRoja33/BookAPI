@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-// Publication Schema
+//  Publication Schema
 const PublicationSchema = mongoose.Schema({
     id: Number,
     name: String,
